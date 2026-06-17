@@ -12,6 +12,7 @@ public class TesteLista {
 		lista.add(10);
 		lista.add(8);
 		lista.add(9);
+		lista.add(258);
 		lista.add(0);
 		lista.add(1000);
 
